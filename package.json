@@ -2,7 +2,9 @@
   "name": "vueplay",
   "displayName": "Vue Play",
   "description": "Visual vue application and component designer",
+  "publisher": "vueplay",
   "version": "0.0.1",
+  "icon": "images/logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/vueplayground/vueplay-extension"
