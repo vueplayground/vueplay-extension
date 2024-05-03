@@ -7,7 +7,7 @@ This is the extension from Vue Play to build Vue applications and components vis
 Vue Play aims to visualize the workflow of Vue components and applications.
 Learn more at [https://vueplay.com](https://vueplay.com)
 
-![logo](images/logo.png)
+![logo](https://ph-files.imgix.net/015a2a1e-1a13-4d22-b1bf-a96e7c8e2cd0.png)
 
 > Notice: This extension is currently in an experimental stage.
 

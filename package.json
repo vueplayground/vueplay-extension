@@ -3,6 +3,10 @@
   "displayName": "Vue Play",
   "description": "Visual vue application and component designer",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vueplayground/vueplay-extension"
+  },
   "engines": {
     "vscode": "^1.89.0"
   },

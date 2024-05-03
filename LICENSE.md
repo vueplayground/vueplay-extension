@@ -1,0 +1,1 @@
+Siglar Development AS 2024 ~ All Rights Reserved
