@@ -3,7 +3,7 @@
   "displayName": "Vue Play",
   "description": "Visual vue application and component designer",
   "publisher": "vueplay",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "images/logo.png",
   "repository": {
     "type": "git",

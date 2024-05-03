@@ -2,14 +2,15 @@
 
 This is the extension from Vue Play to build Vue applications and components visually
 
+> PLEASE NOTE: This extension is in an EXPERIMENTAL stage.
+
 ## Features
 
 Vue Play aims to visualize the workflow of Vue components and applications.
+
 Learn more at [https://vueplay.com](https://vueplay.com)
 
 ![logo](https://ph-files.imgix.net/015a2a1e-1a13-4d22-b1bf-a96e7c8e2cd0.png?w=256&h=256)
-
-> Notice: This extension is currently in an experimental stage.
 
 ## Requirements
 
@@ -27,6 +28,10 @@ This extension is currently experimental
 
 ## Release Notes
 
+### 0.0.4
+
+Experimental Stage Notice
+
 ### 0.0.3
 
 Scale Image
@@ -34,10 +39,6 @@ Scale Image
 ### 0.0.2
 
 Add Icon
-
-### 0.0.1
-
-Initial release of Vue Play VSCODE Extension
 
 ---
 
